@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Minduli! 
-- 👀 I’m interested in Aerospace Engineering and Astronomy! 
+- 👀 I’m interested in all things space!
 - 🌱 I’m currently learning Web Development. 
 - 💞️ I’m looking to collaborate on any and all space projects, machine learning work and web development. 
 - 📫 Email me on minduli1999@gmail.com
